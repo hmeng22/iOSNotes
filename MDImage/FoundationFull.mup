@@ -1,0 +1,1751 @@
+{
+  "title": "NSObject",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Value Objects",
+      "id": 23,
+      "ideas": {
+        "1": {
+          "title": "NSAffineTransform",
+          "id": 2,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "2": {
+          "title": "NSCalendar",
+          "id": 3,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "3": {
+          "title": "NSCache",
+          "id": 4,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "4": {
+          "title": "NSData",
+          "id": 5,
+          "ideas": {
+            "1": {
+              "title": "NSMutableData",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "NSPurgeableData",
+                  "id": 7,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "5": {
+          "title": "NSDate",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "NSCalendarDate",
+              "id": 10,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "6": {
+          "title": "NSDateComponents",
+          "id": 11,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "7": {
+          "title": "NSDecimalNumberHandler",
+          "id": 12,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "8": {
+          "title": "NSLocale",
+          "id": 13,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "9": {
+          "title": "NSNull",
+          "id": 15,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "10": {
+          "title": "NSTimeZone",
+          "id": 16,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "11": {
+          "title": "NSValue",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "NSNumber",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "NSDecimalNumber",
+                  "id": 19,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "12": {
+          "title": "NSValueTransformer",
+          "id": 20,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
+    },
+    "2": {
+      "title": "Strings",
+      "id": 32,
+      "ideas": {
+        "1": {
+          "title": "NSAttributedString",
+          "id": 34,
+          "ideas": {
+            "1": {
+              "title": "NSMutableAttributedString",
+              "id": 35,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "2": {
+          "title": "NSCharacterSet",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "NSMutableCharacterSet",
+              "id": 37,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "3": {
+          "title": "NSString",
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "NSMutableString",
+              "id": 39,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "4": {
+          "title": "NSFormatter",
+          "id": 40,
+          "ideas": {
+            "1": {
+              "title": "NSDateFormatter",
+              "id": 41,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "2": {
+              "title": "NSNumberFormatter",
+              "id": 42,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "5": {
+          "title": "NSScanner",
+          "id": 45,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "6": {
+          "title": "NSSortDescriptor",
+          "id": 46,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      }
+    },
+    "3": {
+      "title": "Predicates",
+      "id": 65,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "NSExpression",
+          "id": 66,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "2": {
+          "title": "NSPredicate",
+          "id": 67,
+          "ideas": {
+            "1": {
+              "title": "NSComparisonPredicate",
+              "id": 68,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "2": {
+              "title": "NSCompoundPredicate",
+              "id": 69,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        }
+      }
+    },
+    "4": {
+      "title": "Notifications",
+      "id": 132,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "NSNotification",
+          "id": 133,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "2": {
+          "title": "NSNotificationCenter",
+          "id": 134,
+          "ideas": {
+            "1": {
+              "title": "NSDistributedNotificationCenter",
+              "id": 135,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "3": {
+          "title": "NSNotificationQueue",
+          "id": 136,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        }
+      }
+    },
+    "14": {
+      "title": "Archiving and Serialization",
+      "id": 137,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "NSCoder",
+          "id": 138,
+          "ideas": {
+            "1": {
+              "title": "NSArchiver",
+              "id": 139,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "2": {
+              "title": "NSKeyedArchiver",
+              "id": 140,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "3": {
+              "title": "NSKeyedUnarchiver",
+              "id": 141,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "4": {
+              "title": "NSPortCoder",
+              "id": 142,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "5": {
+              "title": "NSUnarchiver",
+              "id": 143,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        }
+      }
+    },
+    "24": {
+      "title": "Objective-C Language Services",
+      "id": 144,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "NSAssertionHandler",
+          "id": 145,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "2": {
+          "title": "NSAutoreleasePool",
+          "id": 146,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "3": {
+          "title": "NSClassDescription",
+          "id": 147,
+          "ideas": {
+            "1": {
+              "title": "NSScriptClassDescription",
+              "id": 153,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "4": {
+          "title": "NSException",
+          "id": 148,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "5": {
+          "title": "NSGarbageCollector",
+          "id": 149,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "6": {
+          "title": "NSInvocation",
+          "id": 150,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "7": {
+          "title": "NSMethodSignature",
+          "id": 151,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "8": {
+          "title": "NSUndoManager",
+          "id": 152,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        }
+      }
+    },
+    "34": {
+      "title": "Scripting",
+      "id": 154,
+      "ideas": {
+        "1": {
+          "title": "NSAppleEventDescriptor",
+          "id": 155,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "2": {
+          "title": "NSAppleEnentManager",
+          "id": 156,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "3": {
+          "title": "NSAppleScript",
+          "id": 157,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "4": {
+          "title": "NSPositionalSpecifier",
+          "id": 158,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "5": {
+          "title": "NSScriptCoercionHandler",
+          "id": 159,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "6": {
+          "title": "NSScriptCommand",
+          "id": 160,
+          "ideas": {
+            "1": {
+              "title": "NSCloneCommand",
+              "id": 161,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "2": {
+              "title": "NSCloseCommand",
+              "id": 162,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "3": {
+              "title": "NSCountCommand",
+              "id": 163,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "4": {
+              "title": "NSCreateCommand",
+              "id": 164,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "5": {
+              "title": "NSDeleteCommand",
+              "id": 165,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "6": {
+              "title": "NSExistsCommand",
+              "id": 166,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "7": {
+              "title": "NSGetCommand",
+              "id": 167,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "8": {
+              "title": "NSMoveCommand",
+              "id": 168,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "9": {
+              "title": "NSQuitCommand",
+              "id": 169,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "10": {
+              "title": "NSSetCommand",
+              "id": 170,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "7": {
+          "title": "NSScriptCommandDescription",
+          "id": 171,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "8": {
+          "title": "NSScriptExecutionContext",
+          "id": 172,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "9": {
+          "title": "NSScriptObjectSpecifier",
+          "id": 173,
+          "ideas": {
+            "1": {
+              "title": "NSIndexSpecifier",
+              "id": 174,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "2": {
+              "title": "NSMiddleSpecifier",
+              "id": 175,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "3": {
+              "title": "NSNameSpecifier",
+              "id": 176,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "4": {
+              "title": "NSPropertySpecifier",
+              "id": 177,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "5": {
+              "title": "NSRandomSpecifier",
+              "id": 178,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "6": {
+              "title": "NSRangeSpecifier",
+              "id": 179,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "7": {
+              "title": "NSRelativeSpecifier",
+              "id": 180,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "8": {
+              "title": "NSUniqueIDSpecifier",
+              "id": 181,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "9": {
+              "title": "NSWhoseSpecifier",
+              "id": 182,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "10": {
+          "title": "NSScriptSuiteRegistry\n",
+          "id": 183,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "11": {
+          "title": "NSScriptWhseTest",
+          "id": 184,
+          "ideas": {
+            "1": {
+              "title": "NSLogicalTest",
+              "id": 185,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "2": {
+              "title": "NSSpecifierTest",
+              "id": 186,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#c0c0c0"
+        }
+      }
+    },
+    "44": {
+      "title": "Distributed Objects",
+      "id": 187,
+      "ideas": {
+        "1": {
+          "title": "NSConnection",
+          "id": 188,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "2": {
+          "title": "NSDistantObjectReques",
+          "id": 189,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "3": {
+          "title": "NSProxy",
+          "id": 190,
+          "ideas": {
+            "1": {
+              "title": "NSDistantObject",
+              "id": 191,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "2": {
+              "title": "NSprotocolChecker",
+              "id": 192,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#c0c0c0"
+        }
+      }
+    },
+    "-1": {
+      "title": "XML",
+      "id": 24,
+      "ideas": {
+        "1": {
+          "title": "NSXMLNode",
+          "id": 25,
+          "ideas": {
+            "1": {
+              "title": "NSXMLDocument",
+              "id": 28,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "2": {
+              "title": "NSXMLDTD",
+              "id": 29,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "3": {
+              "title": "NSXMLDTDNode",
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "4": {
+              "title": "NSXMLElement",
+              "id": 31,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "2": {
+          "title": "NSXMLParser",
+          "id": 27,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#c0c0c0"
+        }
+      }
+    },
+    "-2": {
+      "title": "Collections",
+      "id": 47,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "NSArray",
+          "id": 49,
+          "ideas": {
+            "1": {
+              "title": "NSMutableArray",
+              "id": 50,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "2": {
+          "title": "NSDictionary",
+          "id": 51,
+          "ideas": {
+            "1": {
+              "title": "NSMutableDictionary",
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "3": {
+          "title": "NSEnumerator",
+          "id": 53,
+          "ideas": {
+            "1": {
+              "title": "NSDirectoryEnumerator",
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "4": {
+          "title": "NSHashTable",
+          "id": 55,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "5": {
+          "title": "NSIndexPath",
+          "id": 56,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "6": {
+          "title": "NSIndexSet",
+          "id": 57,
+          "ideas": {
+            "1": {
+              "title": "NSMutableIndexSet",
+              "id": 58,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "7": {
+          "title": "NSMapTable",
+          "id": 59,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "8": {
+          "title": "NSPointerArray",
+          "id": 60,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "9": {
+          "title": "NSPointerFunctions",
+          "id": 61,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "10": {
+          "title": "NSSet",
+          "id": 62,
+          "ideas": {
+            "1": {
+              "title": "NSMutableSet",
+              "id": 63,
+              "ideas": {
+                "1": {
+                  "title": "NSCountedSet",
+                  "id": 64,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        }
+      }
+    },
+    "-3": {
+      "title": "Operating-System Services",
+      "id": 70,
+      "attr": {
+        "style": {
+          "background": "#0000ff"
+        },
+        "position": [
+          93,
+          264,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "NSError",
+          "id": 71,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "2": {
+          "title": "NSHost",
+          "id": 72,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "3": {
+          "title": "NSNetService",
+          "id": 73,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "4": {
+          "title": "NSNetServiceBrowser",
+          "id": 74,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "5": {
+          "title": "NSOrthography",
+          "id": 75,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "6": {
+          "title": "NSProcessInfo",
+          "id": 76,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "7": {
+          "title": "NSRunLoop",
+          "id": 77,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "8": {
+          "title": "NSSpellServer",
+          "id": 78,
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
+            }
+          }
+        },
+        "9": {
+          "title": "NSTextCheckingResult",
+          "id": 79,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "10": {
+          "title": "NSTimer",
+          "id": 80,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "11": {
+          "title": "NSUserDefaults",
+          "id": 81,
+          "attr": {
+            "style": {
+              "background": "#33cccc"
+            }
+          }
+        },
+        "12": {
+          "title": "File System",
+          "id": 82,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "NSBundle",
+              "id": 83,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "2": {
+              "title": "NSFileHandle",
+              "id": 84,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "3": {
+              "title": "NSFileManager",
+              "id": 85,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "4": {
+              "title": "NSMetadataItem",
+              "id": 86,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "5": {
+              "title": "NSMetadataQuery",
+              "id": 87,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "6": {
+              "title": "NSMetadataQueryAttributeValueTuple",
+              "id": 88,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "7": {
+              "title": "NSMetadataQueryResultGroup",
+              "id": 89,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "8": {
+              "title": "NSStream",
+              "id": 90,
+              "ideas": {
+                "1": {
+                  "title": "NSInputStream",
+                  "id": 91,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "NSOutputStream",
+                  "id": 92,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "title": "URL",
+          "id": 93,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "NSCachedURLResponse",
+              "id": 94,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "2": {
+              "title": "NSHTTPCookie",
+              "id": 95,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "3": {
+              "title": "NSHTTPCookieStorage",
+              "id": 96,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "4": {
+              "title": "NSURL",
+              "id": 97,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "5": {
+              "title": "NSURLAuthorizationChallenge",
+              "id": 98,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "6": {
+              "title": "NSURLCache",
+              "id": 99,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "7": {
+              "title": "NSURLConnection",
+              "id": 100,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "8": {
+              "title": "NSURLCredential",
+              "id": 101,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "9": {
+              "title": "NSURLCreditialStorage",
+              "id": 102,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "10": {
+              "title": "NSURLDownload",
+              "id": 103,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "11": {
+              "title": "NSURLProtectionSpace",
+              "id": 104,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "12": {
+              "title": "NSURLProtocol",
+              "id": 105,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "13": {
+              "title": "NSURLRequest",
+              "id": 106,
+              "ideas": {
+                "1": {
+                  "title": "NSMutableURLRequest",
+                  "id": 107,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "14": {
+              "title": "NSURLResponse",
+              "id": 108,
+              "ideas": {
+                "1": {
+                  "title": "NSHTTPURLResponse",
+                  "id": 109,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          }
+        },
+        "14": {
+          "title": "Interprocess Communication",
+          "id": 110,
+          "ideas": {
+            "1": {
+              "title": "NSPipe",
+              "id": 111,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "2": {
+              "title": "NSPort",
+              "id": 112,
+              "ideas": {
+                "1": {
+                  "title": "NSMachPort",
+                  "id": 113,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "NSMessagePort",
+                  "id": 114,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "NSSocketPort",
+                  "id": 115,
+                  "attr": {
+                    "style": {
+                      "background": "#c0c0c0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "3": {
+              "title": "NSPortMessage",
+              "id": 116,
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                }
+              }
+            },
+            "4": {
+              "title": "NSPortNameServer",
+              "id": 117,
+              "ideas": {
+                "1": {
+                  "title": "NSMachBootstrapServer",
+                  "id": 118,
+                  "attr": {
+                    "style": {
+                      "background": "#c0c0c0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "NSMessagePortNameServer",
+                  "id": 119,
+                  "attr": {
+                    "style": {
+                      "background": "#c0c0c0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "NSSocketProtNameServer",
+                  "id": 120,
+                  "attr": {
+                    "style": {
+                      "background": "#c0c0c0"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#c0c0c0"
+                },
+                "position": [
+                  184,
+                  169.5,
+                  1
+                ]
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
+        },
+        "15": {
+          "title": "Locking/Threading",
+          "id": 121,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "NSConditionLock",
+              "id": 122,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "2": {
+              "title": "NSDistributedLock",
+              "id": 123,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "3": {
+              "title": "NSLock",
+              "id": 124,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "4": {
+              "title": "NSOperation",
+              "id": 125,
+              "ideas": {
+                "1": {
+                  "title": "NSBlockOperation",
+                  "id": 126,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "NSInvocationOperation",
+                  "id": 127,
+                  "attr": {
+                    "style": {
+                      "background": "#33cccc"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "5": {
+              "title": "NSOperationQueue",
+              "id": 128,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "6": {
+              "title": "NSRecursiveLock",
+              "id": 129,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "7": {
+              "title": "NSTask",
+              "id": 130,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            },
+            "8": {
+              "title": "NSThread",
+              "id": 131,
+              "attr": {
+                "style": {
+                  "background": "#33cccc"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "#ffffff"
+    }
+  }
+}

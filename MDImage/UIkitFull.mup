@@ -1,0 +1,679 @@
+{
+  "title": "NSObject",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "UIAcceleration",
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "11": {
+      "title": "UUIAccelerometer",
+      "id": 3,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "21": {
+      "title": "UIAccessibilityElement",
+      "id": 4,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "31": {
+      "title": "UIBarItem",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "UIBarButtonItem",
+          "id": 6,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "UITabBarItem",
+          "id": 7,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "41": {
+      "title": "UIBezierPath",
+      "id": 8,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "51": {
+      "title": "UIColor",
+      "id": 9,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "61": {
+      "title": "UIDevice",
+      "id": 10,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "71": {
+      "title": "UIDocumentInteractionController",
+      "id": 11,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "81": {
+      "title": "UIEvent",
+      "id": 12,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "91": {
+      "title": "UIFont",
+      "id": 13,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "101": {
+      "title": "UIGestureRecognizer",
+      "id": 14,
+      "ideas": {
+        "1": {
+          "title": "UILongPressGestureRecognizer",
+          "id": 15,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "2": {
+          "title": "UIPanGestureRecognizer",
+          "id": 16,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "3": {
+          "title": "UIPinchGestureRecognizer",
+          "id": 17,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "4": {
+          "title": "UIRotationGestureRecognizer",
+          "id": 18,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "5": {
+          "title": "UISwipeGestureRecognizer",
+          "id": 19,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        },
+        "6": {
+          "title": "UITapGestureRecognizer",
+          "id": 20,
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "111": {
+      "title": "UIImage",
+      "id": 21,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "121": {
+      "title": "UILocalizedIndexedCollation",
+      "id": 22,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "131": {
+      "title": "UILocalNotification",
+      "id": 23,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "141": {
+      "title": "UIMenuController",
+      "id": 24,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "151": {
+      "title": "UIMenuItem",
+      "id": 25,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "161": {
+      "title": "UINavigationItem",
+      "id": 26,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "171": {
+      "title": "UINib",
+      "id": 27,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "181": {
+      "title": "UIPasteboard",
+      "id": 28,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "191": {
+      "title": "UIPopoverController",
+      "id": 29,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "201": {
+      "title": "UIPrintFormatter",
+      "id": 30,
+      "ideas": {
+        "1": {
+          "title": "UISimpleTextPrintFormatter",
+          "id": 31,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "UIMarkupTextPrintFormatter",
+          "id": 32,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "3": {
+          "title": "UIViewPrintFormatter",
+          "id": 33,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "211": {
+      "title": "UIPrintInfo",
+      "id": 34,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "221": {
+      "title": "UIPrintInteractionController",
+      "id": 35,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "231": {
+      "title": "UIPrintPageRenderer",
+      "id": 36,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "241": {
+      "title": "UIPrintPaper",
+      "id": 37,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        }
+      }
+    },
+    "-10": {
+      "title": "UIResponder",
+      "id": 38,
+      "ideas": {
+        "1": {
+          "title": "UIApplication",
+          "id": 39,
+          "attr": {
+            "position": [
+              113.46484375,
+              -566.5546875000001,
+              1
+            ],
+            "style": {
+              "background": "#99cc00"
+            }
+          }
+        },
+        "2": {
+          "title": "UIView",
+          "id": 40,
+          "ideas": {
+            "1": {
+              "title": "UIWindow",
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "2": {
+              "title": "UILable",
+              "id": 53,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "3": {
+              "title": "UIPickerView",
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "4": {
+              "title": "UIProgressView",
+              "id": 55,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "5": {
+              "title": "UIActivityIndicatorView",
+              "id": 56,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "6": {
+              "title": "UIImageView",
+              "id": 57,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "7": {
+              "title": "UITabBar",
+              "id": 58,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "8": {
+              "title": "UIToolbar",
+              "id": 59,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "9": {
+              "title": "UINavigationBar",
+              "id": 60,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "10": {
+              "title": "UITableViewCell",
+              "id": 61,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "11": {
+              "title": "UIActionSheet",
+              "id": 62,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "12": {
+              "title": "UIAlertView",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "13": {
+              "title": "UIScrollView",
+              "id": 64,
+              "ideas": {
+                "1": {
+                  "title": "UITableView",
+                  "id": 65,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "UITextView",
+                  "id": 66,
+                  "attr": {
+                    "style": {
+                      "background": "#ffcc99"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "14": {
+              "title": "UISearchBar",
+              "id": 67,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "15": {
+              "title": "UIWebView",
+              "id": 68,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
+            },
+            "10.5": {
+              "title": "UIControl",
+              "id": 69,
+              "ideas": {
+                "1": {
+                  "title": "UIButton",
+                  "id": 70,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "UIDatePicker",
+                  "id": 71,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "UIPageControl",
+                  "id": 72,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                },
+                "4": {
+                  "title": "UISegmentedControl",
+                  "id": 73,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                },
+                "5": {
+                  "title": "UITextField",
+                  "id": 74,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                },
+                "6": {
+                  "title": "UISlider",
+                  "id": 75,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                },
+                "7": {
+                  "title": "UISwitch",
+                  "id": 76,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                },
+                "position": [
+                  271.0468749999998,
+                  -62.53125000000193,
+                  1
+                ]
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
+        },
+        "3": {
+          "title": "UIViewController",
+          "id": 41,
+          "ideas": {
+            "1": {
+              "title": "UISplitViewController",
+              "id": 43,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            },
+            "2": {
+              "title": "UITabBarController",
+              "id": 44,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            },
+            "3": {
+              "title": "UITableViewController",
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            },
+            "4": {
+              "title": "UINavigationController",
+              "id": 46,
+              "ideas": {
+                "1": {
+                  "title": "UIImagePickerController",
+                  "id": 49,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "UIVideoEditorController",
+                  "id": 50,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ccffff"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#00ccff"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    }
+  },
+  "attr": {
+    "style": {
+      "background": "#ffffff"
+    }
+  }
+}
